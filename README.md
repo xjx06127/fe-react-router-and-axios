@@ -69,14 +69,14 @@
 
 <br/>
 
-> `http://localhost:3000/:ownerId`  
+> http://localhost:3000/:ownerId    
 > `ownerId` Param에 해당하는 유저의 모든 방명록 목록을 보여주는 페이지  
 > 해당 유저의 방명록이 존재하지 않으면 `방명록이 없습니다.` 등의 메세지를 표시하여 유저에게 피드백을 제공해주세요.   
 > 방명록 목록은 제목만 출력하며, 제목을 클릭하면 방명록 상세 페이지로 이동합니다.  
 
 <br/>
 
-> `http://localhost:3000/articles/:articleId`  
+> http://localhost:3000/articles/:articleId     
 > 방명록 상세 페이지  
 > 제목과 내용, 작성일까지 확인할 수 있습니다.  
 > `제거하기` 버튼이 클릭 시에 방명록을 삭제하고 이전 페이지로 돌아갑니다.  
@@ -84,19 +84,19 @@
 
 <br/>
 
-> `http://localhost:3000/:ownerId/create`  
+> http://localhost:3000/:ownerId/create   
 > `ownerId` Param에 해당하는 유저에게 방명록을 작성하는 페이지  
 > 방명록 작성을 완료하면 이전 페이지로 이동합니다.  
 
 <br/>
 
-> `http://localhost:3000/articles/:articleId/edit`  
+> http://localhost:3000/articles/:articleId/edit  
 > 방명록을 수정할 수 있는 페이지  
 > 수정을 완료하면 이전 페이지로 이동합니다.  
 
 <br/>
 
-> `기타 라우트`  
+> [기타 라우트](https://github.com/faewafewaefw)  
 > 올바르지 않은 주소로 접근 시에 `페이지를 찾을 수 없습니다.` 등의 메세지로 유저에데 패드백을 제공해주세요.  
 
 <br/>

@@ -2,26 +2,40 @@
 
 > 여러분, 기말고사 기간 정말 고생 많으셨습니다! 이번 세션과 과제를 통해 React Router를 이용한 Client Side Routing과 Axios를 활용한 REST API 사용에 대해 학습할 예정입니다.
 
+<br/>
+
 ## 🌿 잠깐! 세션이 이해가 가지 않았나요? 🌿
 
 세션 내용이 이해가 잘 가지 않은 여러분들을 위한 자료를 정리했어요. 아래를 참고해주세요.
 
-> [얄팍한 코딩사전 - REST API가 뭔가요?](https://www.youtube.com/watch?v=iOueE9AXDQQ)
+<br/>
+
+> [얄팍한 코딩사전 - REST API가 뭔가요?](https://www.youtube.com/watch?v=iOueE9AXDQQ)  
 > REST API와 관련된 개념을 파악할 수 있는 영상입니다.
 
-> [LIKELION FE - React Router + REST API](https://velog.io/@pexe99/LIKELION-FE-React-Router-REST-API)
+<br/>
+
+> [LIKELION FE - React Router + REST API](https://velog.io/@pexe99/LIKELION-FE-React-Router-REST-API)  
 > 이번 세션에 대한 내용을 정리한 포스팅입니다.
 
-> [React Router v6 튜토리얼](https://velog.io/@velopert/react-router-v6-tutorial)
+<br/>
+
+> [React Router v6 튜토리얼](https://velog.io/@velopert/react-router-v6-tutorial)  
 > React Router와 관련된 velog 트렌딩 포스팅입니다.
 
-> [REST(Representational State Transfer) API](https://hudi.blog/rest-api/)
+<br/>
+
+> [REST(Representational State Transfer) API](https://hudi.blog/rest-api/)  
 > REST API와 관련된 블로그 포스팅입니다.
 
-> [Axios 공식 문서](https://axios-http.com/kr/docs/intro)
+<br/>
+
+> [Axios 공식 문서](https://axios-http.com/kr/docs/intro)  
 > Axios 한글화 공식 문서입니다.
 
-> [Axios 러닝 가이드](https://yamoo9.github.io/axios/guide/usage.html#get-%EC%9A%94%EC%B2%AD)
+<br/>
+
+> [Axios 러닝 가이드](https://yamoo9.github.io/axios/guide/usage.html#get-%EC%9A%94%EC%B2%AD)  
 > 기본적인 Axios 관련 사용법들이 정리되어 있습니다.
 
 ## 🔥 실습 시작하기 🔥

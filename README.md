@@ -1,5 +1,7 @@
 # ✨ 멋쟁이사자처럼 11기 FE - REACT ROUTER X AXIOS ✨
 
+![image](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/9157941f-c306-440a-975a-a4c6f0244264)
+
 > 여러분, 기말고사 기간 정말 고생 많으셨습니다! 이번 세션과 과제를 통해 React Router를 이용한 Client Side Routing과 Axios를 활용한 REST API 사용에 대해 학습할 예정입니다.
 
 <br/>

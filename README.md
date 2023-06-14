@@ -70,6 +70,8 @@
 
 총 5개의 페이지로 이루어진 방명록 웹 애플리케이션을 완성해주세요. 각 페이지별 구성과 주소는 아래와 같습니다.  
 
+<br/>
+
 ![Frame 1](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/e2b395f7-2886-4bbf-b9f1-c345deb425c7)
 
 <br/>
@@ -115,6 +117,8 @@
 `API HOST` : http://13.209.88.4:8080
 
 `API DOCS` : http://13.209.88.4:8080/swagger-ui/#/
+
+<br/>
 
 ![Group 25](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/7ab04c42-bb0c-4eb2-b8cc-f579de295e4b)
 

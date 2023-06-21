@@ -72,7 +72,7 @@
 
 <br/>
 
-![Uploading Frame 1.png…]()
+![Frame 1](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/d30da500-f0f6-4ba6-9323-64374ad0ba17)
 
 <br/>
 

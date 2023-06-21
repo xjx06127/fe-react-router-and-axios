@@ -72,7 +72,7 @@
 
 <br/>
 
-![Frame 1](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/e2b395f7-2886-4bbf-b9f1-c345deb425c7)
+![Uploading Frame 1.png…]()
 
 <br/>
 
@@ -124,7 +124,7 @@
 
 <br/>
 
-![Group 25](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/7ab04c42-bb0c-4eb2-b8cc-f579de295e4b)
+![Group 25](https://github.com/Likelion-Inha-11/fe-react-router-and-axios/assets/79556112/6220a8a2-7415-4b46-b575-6f04f329cd8e)
 
 > **API 호출 방법을 확인하기 위해 상단의 `API DOCS`를 반드시 확인해주세요!!**
 > API DOCS 페이지는 `Swagger`를 사용하여 빌드되었습니다.

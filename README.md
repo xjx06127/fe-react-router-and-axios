@@ -118,9 +118,9 @@
 
 <br/>
 
-`API HOST` : http://13.209.88.4:8080
+`API HOST` : https://guestbook.jmoomin.com
 
-`API DOCS` : http://13.209.88.4:8080/swagger-ui/#/
+`API DOCS` : https://guestbook.jmoomin.com/swagger-ui/#/ArticleController
 
 <br/>
 
